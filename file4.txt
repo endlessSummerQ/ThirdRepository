@@ -1,3 +1,5 @@
 Hello from file4 
 
 changed from user2
+
+critical bug fixed
