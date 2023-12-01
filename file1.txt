@@ -1,4 +1,4 @@
 Hello World 
 
-
+line from user2
 changed from user1
