@@ -3,3 +3,6 @@ Hello World
 line from user2
 
 add line from master!
+
+line from user1
+lessons about rebase
